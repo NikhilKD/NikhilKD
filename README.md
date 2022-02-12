@@ -59,8 +59,8 @@ Full Stack Angular Developer || Graphic Designer
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=NikhilKD8&hide=stars&show_icons=true&line_height=48&theme=algolia">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilKD8&count_private=true&line_height=40&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilKD&hide=stars&show_icons=true&line_height=48&theme=algolia">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilKD&count_private=true&line_height=40&theme=algolia">
 
 </p>
 
@@ -68,7 +68,7 @@ Full Stack Angular Developer || Graphic Designer
 
 ## **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NikhilKD8&line_height=40&theme=algolia">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NikhilKD&line_height=40&theme=algolia">
 </p>
 
 ---
