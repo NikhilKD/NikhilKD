@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **NikhilKD/NikhilKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -69,7 +68,7 @@ Full Stack Angular Developer || Graphic Designer
 
 ## **Github Streak:**
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NikhilKDrocks8&line_height=40&theme=algolia">
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=NikhilKD8&line_height=40&theme=algolia">
 </p>
 
 ---
